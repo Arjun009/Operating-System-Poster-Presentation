@@ -1,6 +1,8 @@
 # Operating-System-Poster-Presentation
 ![os1-min](https://user-images.githubusercontent.com/33459977/56201988-afda7500-605f-11e9-8393-86b6830b1a07.png)
 
+PSD File - https://drive.google.com/open?id=1aih5ZheLPrukarcPtCX-caplyB4LylKC
+
 ## Process Management
 Do you think your Linux computer will automatically take care of everything by itself? Sometimes you may need to step in directly.
 Process management is a case in point. Linux creates a process whenever a program is launched, either by you or by Linux. This process is a container of information about how that program is running and what’s happening.
